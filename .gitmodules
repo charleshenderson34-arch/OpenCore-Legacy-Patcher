@@ -1,0 +1,3 @@
+[submodule "OpenCore-Legacy-Patcher"]
+	path = OpenCore-Legacy-Patcher
+	url = https://charleshenderson34-arch@github.com/charleshenderson34-arch/OpenCore-Legacy-Patcher
