@@ -1,0 +1,6 @@
+[submodule "d1-template"]
+	path = d1-template
+	url = https://charleshenderson34-arch@github.com/charleshenderson34-arch/d1-template
+[submodule "d1"]
+	path = d1
+	url = https://charleshenderson34-arch@github.com/charleshenderson34-arch/d1-template
