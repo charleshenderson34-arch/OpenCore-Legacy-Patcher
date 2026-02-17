@@ -1,3 +1,6 @@
 [submodule "OpenCore-Legacy-Patcher"]
 	path = OpenCore-Legacy-Patcher
 	url = https://charleshenderson34-arch@github.com/charleshenderson34-arch/OpenCore-Legacy-Patcher
+[submodule "ci_tooling/pkg_assets/kali"]
+	path = ci_tooling/pkg_assets/kali
+	url = https://gitlab.com/hendersoncharles850/tim.git
